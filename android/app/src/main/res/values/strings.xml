@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">math-trainer</string>
-    <string name="title_activity_main">math-trainer</string>
+    <string name="app_name">Mathe Trainer</string>
+    <string name="title_activity_main">Mathe Trainer</string>
     <string name="package_name">com.mathtrainer.app</string>
     <string name="custom_url_scheme">com.mathtrainer.app</string>
 </resources>
